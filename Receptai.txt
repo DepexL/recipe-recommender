@@ -122,10 +122,6 @@
 #INGREDIENTS: eggs, salt
 #INSTRUCTIONS: Boil eggs for 6–8 minutes, peel and serve.
 
-#TITLE: Kepti kiaušiniai
-#INGREDIENTS: eggs, salt, pepper, oil
-#INSTRUCTIONS: Fry eggs sunny side up or over easy.
-
 #TITLE: Skrudinta duona
 #INGREDIENTS: bread, butter
 #INSTRUCTIONS: Toast bread, spread with butter.
@@ -188,4 +184,5 @@
 
 #TITLE: Paprasti ryžiai
 #INGREDIENTS: rice, water, salt
+
 #INSTRUCTIONS: Boil rice in salted water until soft.
