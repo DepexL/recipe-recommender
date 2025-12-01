@@ -1,0 +1,10 @@
+Kad naudotum šią AI demo, failas Receptai.txt turi būti tame pačiame aplanke su pagrindiniu kodu. Tada užtenka tiesiog paleisti kodą.
+
+Jei norima pildyti receptus, laikomasi šio formato:
+
+#TITLE: (recepto pavadinimas)
+#INGREDIENTS: (ingredientai)
+#INSTRUCTIONS: (recepto instrukcija)
+
+
+Jei nori pridėti leksikonus, reikia eiti į patį kodą ir į leksikono vietą juos įterpti.

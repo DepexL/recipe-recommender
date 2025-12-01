@@ -1,0 +1,191 @@
+#TITLE: Pancakes
+#INGREDIENTS: flour, milk, eggs, sugar, salt, oil
+#INSTRUCTIONS: Mix flour, milk, eggs, fry.
+
+#TITLE: Spaghetti su pomidorų padažu
+#INGREDIENTS: spaghetti, tomato sauce, salt, pepper, garlic
+#INSTRUCTIONS: Boil pasta, add tomato sauce.
+
+#TITLE: Cezario salotos
+#INGREDIENTS: lettuce, chicken, croutons, parmesan cheese, caesar dressing
+#INSTRUCTIONS: Mix lettuce, dressing, chicken.
+
+#TITLE: Bananų kokteilis
+#INGREDIENTS: bananas, milk, honey, yogurt, ice cubes
+#INSTRUCTIONS: Blend bananas, milk, yogurt, honey, and ice cubes until smooth.
+
+#TITLE: Kepti kiaušiniai su daržovėmis
+#INGREDIENTS: eggs, bell peppers, onion, salt, pepper, oil
+#INSTRUCTIONS: Chop vegetables, fry in oil, add eggs, cook until done.
+
+#TITLE: Obuolių pyragas
+#INGREDIENTS: apples, flour, sugar, eggs, butter, cinnamon
+#INSTRUCTIONS: Mix flour, sugar, eggs, butter; add sliced apples; bake.
+
+#TITLE: Vištienos troškinys
+#INGREDIENTS: chicken, carrots, potatoes, onion, salt, pepper, broth
+#INSTRUCTIONS: Chop vegetables, add chicken and broth, simmer until cooked.
+
+#TITLE: Šokoladinis pudingas
+#INGREDIENTS: milk, cocoa powder, sugar, cornstarch, vanilla extract
+#INSTRUCTIONS: Mix ingredients in a pot, heat while stirring until thickened.
+
+#TITLE: Česnakiniai krevetės
+#INGREDIENTS: shrimp, garlic, butter, parsley, salt, pepper
+#INSTRUCTIONS: Fry shrimp with garlic and butter, sprinkle with parsley.
+
+#TITLE: Kiaušinienė su špinatais
+#INGREDIENTS: eggs, spinach, salt, pepper, oil
+#INSTRUCTIONS: Fry spinach in oil, add beaten eggs, cook until done.
+
+#TITLE: Pomidorų sriuba
+#INGREDIENTS: tomatoes, onion, garlic, vegetable broth, salt, pepper
+#INSTRUCTIONS: Cook tomatoes, onion, garlic in broth, blend until smooth.
+
+#TITLE: Vištienos salotos
+#INGREDIENTS: chicken, lettuce, cucumber, tomato, olive oil, lemon juice
+#INSTRUCTIONS: Cook chicken, chop vegetables, mix with oil and lemon.
+
+#TITLE: Bulvių košė
+#INGREDIENTS: potatoes, butter, milk, salt, pepper
+#INSTRUCTIONS: Boil potatoes, mash with butter and milk, season.
+
+#TITLE: Špinatų kokteilis
+#INGREDIENTS: spinach, banana, milk, honey, ice cubes
+#INSTRUCTIONS: Blend all ingredients until smooth.
+
+#TITLE: Blynai su mėlynėmis
+#INGREDIENTS: flour, milk, eggs, sugar, blueberries, oil
+#INSTRUCTIONS: Mix flour, milk, eggs, fry and serve with blueberries.
+
+#TITLE: Grikių košė
+#INGREDIENTS: buckwheat, water, salt, butter
+#INSTRUCTIONS: Boil buckwheat in salted water, add butter.
+
+#TITLE: Lašišos kepsnys
+#INGREDIENTS: salmon, lemon, salt, pepper, olive oil
+#INSTRUCTIONS: Season salmon, fry or bake, serve with lemon.
+
+#TITLE: Tuno salotos
+#INGREDIENTS: tuna, lettuce, corn, mayonnaise, salt, pepper
+#INSTRUCTIONS: Mix all ingredients together.
+
+#TITLE: Vaisių salotos
+#INGREDIENTS: apple, banana, orange, grapes, yogurt, honey
+#INSTRUCTIONS: Chop fruits, mix with yogurt and honey.
+
+#TITLE: Morkų sriuba
+#INGREDIENTS: carrots, onion, garlic, vegetable broth, salt, pepper
+#INSTRUCTIONS: Cook carrots with onion and garlic in broth, blend.
+
+#TITLE: Makaronai su pesto
+#INGREDIENTS: pasta, basil pesto, parmesan cheese, salt, pepper
+#INSTRUCTIONS: Boil pasta, mix with pesto and cheese.
+
+#TITLE: Koldūnai su mėsa
+#INGREDIENTS: dumpling wrappers, ground meat, onion, salt, pepper
+#INSTRUCTIONS: Mix meat with onion, fill wrappers, boil until cooked.
+
+#TITLE: Varškės blyneliai
+#INGREDIENTS: cottage cheese, flour, egg, sugar, oil
+#INSTRUCTIONS: Mix ingredients, fry small portions in oil.
+
+#TITLE: Kiaušiniai su pomidorais
+#INGREDIENTS: eggs, tomatoes, onion, salt, pepper, oil
+#INSTRUCTIONS: Fry onion and tomatoes, add eggs, cook until done.
+
+#TITLE: Troškintos daržovės
+#INGREDIENTS: zucchini, bell pepper, carrot, onion, olive oil, salt, pepper
+#INSTRUCTIONS: Chop vegetables, fry or stew until soft.
+
+#TITLE: Bananų duona
+#INGREDIENTS: bananas, flour, sugar, eggs, butter, baking powder
+#INSTRUCTIONS: Mash bananas, mix with other ingredients, bake.
+
+#TITLE: Kiaušinių salotos
+#INGREDIENTS: eggs, mayonnaise, mustard, salt, pepper
+#INSTRUCTIONS: Boil eggs, chop, mix with mayonnaise and mustard.
+
+#TITLE: Grybų risotto
+#INGREDIENTS: rice, mushrooms, onion, garlic, vegetable broth, parmesan cheese
+#INSTRUCTIONS: Fry mushrooms and onion, add rice and broth, cook until soft, sprinkle cheese.
+
+#TITLE: Kiaušinienė
+#INGREDIENTS: eggs, salt, pepper, oil
+#INSTRUCTIONS: Beat eggs, fry in oil, season.
+
+#TITLE: Omletas
+#INGREDIENTS: eggs, milk, salt, pepper, oil
+#INSTRUCTIONS: Beat eggs with milk, fry until firm.
+
+#TITLE: Virtos kiaušinių pusryčiai
+#INGREDIENTS: eggs, salt
+#INSTRUCTIONS: Boil eggs for 6–8 minutes, peel and serve.
+
+#TITLE: Kepti kiaušiniai
+#INGREDIENTS: eggs, salt, pepper, oil
+#INSTRUCTIONS: Fry eggs sunny side up or over easy.
+
+#TITLE: Skrudinta duona
+#INGREDIENTS: bread, butter
+#INSTRUCTIONS: Toast bread, spread with butter.
+
+#TITLE: Varškės sumuštinis
+#INGREDIENTS: bread, cottage cheese, salt, cucumber
+#INSTRUCTIONS: Spread cottage cheese on bread, add cucumber slices.
+
+#TITLE: Kiaušinių sumuštinis
+#INGREDIENTS: bread, boiled eggs, mayonnaise, salt, pepper
+#INSTRUCTIONS: Chop eggs, mix with mayonnaise, spread on bread.
+
+#TITLE: Grybų omletas
+#INGREDIENTS: eggs, mushrooms, salt, pepper, oil
+#INSTRUCTIONS: Fry mushrooms, add beaten eggs, cook until firm.
+
+#TITLE: Varškės blyneliai
+#INGREDIENTS: cottage cheese, egg, flour, oil
+#INSTRUCTIONS: Mix ingredients, fry small portions in oil.
+
+#TITLE: Paprasta sriuba
+#INGREDIENTS: water, salt, pasta or rice
+#INSTRUCTIONS: Boil water, add pasta or rice, cook until soft, season.
+
+#TITLE: Kepti pomidorai
+#INGREDIENTS: tomatoes, salt, pepper, oil
+#INSTRUCTIONS: Slice tomatoes, fry or bake with salt and pepper.
+
+#TITLE: Kepti pipirai
+#INGREDIENTS: bell peppers, oil, salt
+#INSTRUCTIONS: Slice peppers, fry until soft, season.
+
+#TITLE: Greiti makaronai
+#INGREDIENTS: pasta, salt, butter
+#INSTRUCTIONS: Boil pasta, drain, mix with butter.
+
+#TITLE: Bananai su medumi
+#INGREDIENTS: banana, honey
+#INSTRUCTIONS: Slice banana, drizzle with honey.
+
+#TITLE: Skrudinti riešutai
+#INGREDIENTS: nuts, salt
+#INSTRUCTIONS: Roast nuts in a pan, sprinkle with salt.
+
+#TITLE: Grybų troškinys
+#INGREDIENTS: mushrooms, onion, salt, pepper, oil
+#INSTRUCTIONS: Chop mushrooms and onion, fry until soft.
+
+#TITLE: Daržovių salotos
+#INGREDIENTS: cucumber, tomato, lettuce, olive oil, salt
+#INSTRUCTIONS: Chop vegetables, mix with oil and salt.
+
+#TITLE: Avokado sumuštinis
+#INGREDIENTS: bread, avocado, salt, pepper
+#INSTRUCTIONS: Mash avocado, spread on bread, season.
+
+#TITLE: Greitas kefyro kokteilis
+#INGREDIENTS: kefir, banana, honey
+#INSTRUCTIONS: Blend kefir with banana and honey.
+
+#TITLE: Paprasti ryžiai
+#INGREDIENTS: rice, water, salt
+#INSTRUCTIONS: Boil rice in salted water until soft.
